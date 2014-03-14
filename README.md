@@ -10,8 +10,8 @@ Nominatim (from the Latin, 'by name') is a tool to search osm data by name and a
 ## Usage
 
   ```python
-  import pynominatim
-  client = pynominatim.create()
+  import pyNominatim
+  client = pyNominatim.create()
   ```
 
 ### Search
